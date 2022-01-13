@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mkitty23
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on just learning at this time.
+- 🌱 I’m currently learning HTML and Java.
+- 💞️ I’m open to collaborate on learning projects only at this time.
 - 📫 How to reach me only on here for now.
 
 <!---
